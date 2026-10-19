@@ -14,3 +14,7 @@ Contactos fornecidos: 929644969, geral@devito.com, www.devito.com. Foi utilizado
 Não requer instalação nem compilação. Para alojar, publicar o conteúdo de `dist/` num servidor estático. O domínio www.devito.com depende de configuração própria de alojamento e DNS.
 
 Fotografias ilustrativas: Unsplash. Fontes: DM Sans e Manrope, via Google Fonts.
+
+## Página Sobre nós
+
+A página `dist/sobre-nos.html` segue a sequência da referência Tecch: banner e localização, apresentação, missão e visão, valores, serviços, áreas de atuação e convite ao contacto. Os textos institucionais são uma proposta editorial para validação pela Devito. Os menus e o rodapé da página inicial ligam à nova página.
